@@ -6,6 +6,9 @@ Developed a character map for quickly taking digital notes while taking a few na
 * Western Ojibwe with Tom Beardy (INDI1014 & INDI1016)
 * Oji-Cree with Susan Sandau (CREE1010 & CREE1012)
 
+### TODO:
+* v2.0 was rewritten using python/tkinter. I found the compiled files made with py2app for both windows and mac but need to upload python version.
+
 **Demo**
 
 ![GIF demo](img/v2.gif)
